@@ -1,0 +1,23 @@
+rewards:
+  - essentials:give [player] diamond_pickaxe 1 name:&c&lC&f&lA&c&lN&f&lD&c&lY_&f&lC&c&lA&f&lN&c&lE
+    lore:&cAn_efficient_pickaxe|&cto_last_you_a_lifetime. efficiency:6 silktouch:2 unbreakable:true
+  - essentials:give [player] diamond_axe 1 name:&2&lP&a&lE&2&lP&a&lP&2&lE&a&lR&2&lM&a&lI&2&lN&a&lT
+    lore:&2A_minty_fresh|&2multi-purpose_tool. efficiency:6 silktouch:2 sharpness:7
+    fortune:4 unbreakable:true
+  - essentials:give [player] spawner 1 name:&b&lBLANK_&3&lSPAWNER lore:&bRight-click_with_a|&bspawn_egg_to_change|&bthe_spawned_mob.
+  - essentials:give [player] enchanted_book 1 name:&d&lM&5&lY&d&lS&5&lT&d&lI&5&lC&d&lA&5&lL_&d&lB&5&lO&d&lO&5&lK
+    lore:&5Multi-purpose_book|&5for_any_of_your_tools. efficiency:6 unbreaking:10 mending:2
+    silktouch:2
+  - essentials:give [player] turtle_helmet 1 name:&6&lH&e&lA&6&lR&e&lD_&6&lH&e&lA&6&lT
+    lore:&eFor_all_of_your|&eunderwater_adventures. respiration:6 mending:2 protection:8
+    unbreaking:10 aquaaffinity:1
+  - essentials:give [player] elytra 1 name:&3&lPLASTIC_&b&lWINGS lore:&bDurable_pair_of_wings|&bfor_your_adventures.
+    unbreakable:true protection:5
+  - essentials:give [player] blaze_rod 1 name:&6&lyeet_sticc™_&e&ljr lore:&6yeet._A_stick._That.|&6yeets.._things...
+    knockback:10 vanishingcurse:10
+  - essentials:give [player] enchanted_golden_apple 24
+  - essentials:give [player] beacon 1 name:&e&l&mBeacon lore:&eBring_home|&ethe_beacon!
+  - crate give p Toaster [player] 5
+  - crate give p Vote [player] 10
+claimed:
+  - oof

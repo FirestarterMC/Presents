@@ -1,0 +1,7 @@
+name: Presents
+main: xyz.nkomarn.Presents.Presents
+version: 1.0
+author: TechToolbox (@nkomarn)
+description: A Christmas-themed gift-giving plugin!
+api-version: 1.13
+depend: ["WorldGuard"]
